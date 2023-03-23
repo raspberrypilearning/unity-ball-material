@@ -32,4 +32,6 @@ public class BallMaterial : MonoBehaviour
 	}
 }
 
+--- /code ---
+
 When you return to Unity, go to the Inspector for the ball and drag the starting material into the Start Colour.
