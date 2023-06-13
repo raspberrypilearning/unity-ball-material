@@ -1,4 +1,4 @@
-This script changes the material of the ball GameObject to the material on the goal GameObject it collides with.
+This script changes the material of the 'Ball' GameObject to the material on the 'Goal' GameObject it collides with.
 
 Add this script to all of the ball:  
 
